@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Gus",
+        "last_name": "Nend",
+        "email": "gnend0@infoseek.co.jp",
+        "gender": "Male",
+        "ip_address": "221.108.117.253"
+    },
+    {
+        "id": 2,
+        "first_name": "Ediva",
+        "last_name": "Swayland",
+        "email": "eswayland1@opera.com",
+        "gender": "Female",
+        "ip_address": "177.211.177.41"
+    },
+    {
+        "id": 3,
+        "first_name": "Maiga",
+        "last_name": "Muston",
+        "email": "mmuston2@cnbc.com",
+        "gender": "Female",
+        "ip_address": "108.243.80.33"
+    },
+    {
+        "id": 4,
+        "first_name": "Decca",
+        "last_name": "Goldes",
+        "email": "dgoldes3@gov.uk",
+        "gender": "Male",
+        "ip_address": "107.190.143.153"
+    },
+    {
+        "id": 5,
+        "first_name": "Goldia",
+        "last_name": "Childes",
+        "email": "gchildes4@usatoday.com",
+        "gender": "Female",
+        "ip_address": "16.10.198.210"
+    },
+    {
+        "id": 6,
+        "first_name": "Othella",
+        "last_name": "Renals",
+        "email": "orenals5@amazon.co.jp",
+        "gender": "Female",
+        "ip_address": "26.138.16.148"
+    },
+    {
+        "id": 7,
+        "first_name": "Roze",
+        "last_name": "Farra",
+        "email": "rfarra6@abc.net.au",
+        "gender": "Female",
+        "ip_address": "217.4.6.183"
+    },
+    {
+        "id": 8,
+        "first_name": "Elnar",
+        "last_name": "Mervyn",
+        "email": "emervyn7@jimdo.com",
+        "gender": "Male",
+        "ip_address": "62.45.40.233"
+    },
+    {
+        "id": 9,
+        "first_name": "Marcus",
+        "last_name": "Jex",
+        "email": "mjex8@dailymotion.com",
+        "gender": "Male",
+        "ip_address": "153.111.87.37"
+    },
+    {
+        "id": 10,
+        "first_name": "Jule",
+        "last_name": "Chaim",
+        "email": "jchaim9@baidu.com",
+        "gender": "Male",
+        "ip_address": "179.71.60.104"
+    }
+]
